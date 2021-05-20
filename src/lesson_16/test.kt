@@ -22,7 +22,7 @@ var s = p.toUpperCase()
         }
         print(c1)
     }
-kugiukgjkyuhgjkyul
+kugiukgjkyuh;ojlihiuguylofkultdyyktdkyidtrgjkyul
     }
 
 
